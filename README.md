@@ -26,7 +26,7 @@ I design and build intelligent, data-driven applications that combine **Machine 
 
 ## 📌 Featured Projects
 
-### 📊 [VolatiSense: AI-Powered Stock Risk Analysis Dashboard](#)
+### 📊 [VolatiSense: AI-Powered Stock Risk Analysis Dashboard](https://github.com/DhruvTemura/VolatiSense.git)
 A full-stack ML app integrating a Python pipeline with a MERN dashboard.  
 - Automated market data fetching (`yfinance`)  
 - Engineered RSI, MACD for **XGBoost**-based risk prediction  
@@ -34,13 +34,7 @@ A full-stack ML app integrating a Python pipeline with a MERN dashboard.
 
 ---
 
-### ⚡ [Anomaly Detection in Smart Grid Data](#)
-- Developed statistical & ML-based methods to detect unusual patterns in energy usage  
-- Built preprocessing and feature engineering pipelines to boost accuracy  
-
----
-
-### 🔍 [Multi-Source Job Listing Scraper](#)
+### 🔍 [Multi-Source Job Listing Scraper](https://github.com/anuvratgautam/JobsAgent.git)
 - Aggregates postings from LinkedIn, Naukri, Indeed, Instahyre, and Unstop  
 - Includes pagination, anti-bot measures, and JSON/CSV export  
 - Integrated semantic search with a **Vector Database** for analytics  
